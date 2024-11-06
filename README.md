@@ -27,7 +27,3 @@ Enjoy :)
 ### App UI (Demo)
 
 ![Image description](Forkify_Screenshot.png)
-
----
-
-Source code forked from Jonas Schmedtmann https://github.com/jonasschmedtmann/complete-javascript-course/
