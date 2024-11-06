@@ -1,5 +1,7 @@
-# Forkify
-
+<p align="center" width="100%">
+    <img src="src/img/logo.png" alt="Forkify Logo" width="22%">
+</p>
+<h1 align="center">Forkify : The Ultimate cooking companion</h1>
 Forkify is a JavaScript application that interacts with and API to fetch and display food recipe(s).
 
 ## Getting Started
